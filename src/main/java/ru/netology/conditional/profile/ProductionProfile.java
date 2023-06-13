@@ -1,4 +1,4 @@
-package ru.netology.conditional.Profile;
+package ru.netology.conditional.profile;
 
 
 public class ProductionProfile implements SystemProfile {
